@@ -1,0 +1,49 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.main-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.sub-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.container nav {
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #88B3BD;
+  height: 3rem;
+}
+
+.main-element {
+  float: left;
+  margin: 0.3rem;
+  margin-right: 3rem;
+}
+
+.main-element ul {
+ display: none;
+}
+
+a {
+  text-decoration: none;
+  color: #E4E7F5;
+  font-size: 2rem;
+  margin: 0;
+}
+
+
